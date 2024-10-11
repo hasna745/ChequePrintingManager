@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repo local\\PROJECT-\\printingcheque1aa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|c:\\repo local\\project-\\printingcheque1aa\\printingcheque1aa\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|c:\\repo local\\project-\\printingcheque1aa\\printingcheque1aa\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|c:\\repo local\\project-\\printingcheque1aa\\printingcheque1aa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\attijari_wafabanque.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\attijari_wafabanque.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form4.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form4.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\bmce.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\bmce.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\form7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78A1AEE-CC0C-4F4B-AD13-F021D9E9A9CD}|printingcheque1aa\\printingcheque1aa.csproj|solutionrelative:printingcheque1aa\\form7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form8.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form8.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form8.cs",
+              "RelativeToolTip": "printingcheque1aa\\Form8.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:23:47.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Program.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Program.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Program.cs",
+              "RelativeToolTip": "printingcheque1aa\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:12:11.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form8.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form8.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form8.cs [Design]",
+              "RelativeToolTip": "printingcheque1aa\\Form8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:23:45.228Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form2.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form2.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form2.cs [Design]",
+              "RelativeToolTip": "printingcheque1aa\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:06:08.41Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form2.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form2.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form2.cs",
+              "RelativeToolTip": "printingcheque1aa\\Form2.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADgvycAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:19:35.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form9.cs [Design]",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form9.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form9.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form9.cs [Design]",
+              "RelativeToolTip": "printingcheque1aa\\Form9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:16:21.018Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form9.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form9.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form9.cs",
+              "RelativeToolTip": "printingcheque1aa\\Form9.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:16:58.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form1.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form1.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form1.cs [Design]",
+              "RelativeToolTip": "printingcheque1aa\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T18:32:07.104Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form8.Designer.cs",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form8.Designer.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form8.Designer.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form8.Designer.cs",
+              "RelativeToolTip": "printingcheque1aa\\Form8.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:25:32.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form1.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form1.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form1.cs",
+              "RelativeToolTip": "printingcheque1aa\\Form1.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAHsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:46:56.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form2.Designer.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form2.Designer.cs",
+              "RelativeToolTip": "printingcheque1aa\\Form2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:19:28.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form1.Designer.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form1.Designer.cs",
+              "RelativeToolTip": "printingcheque1aa\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:19:14.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form3.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form3.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form3.cs [Design]",
+              "RelativeToolTip": "printingcheque1aa\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:06:12.412Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form3.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form3.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form3.cs",
+              "RelativeToolTip": "printingcheque1aa\\Form3.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAGMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:12:59.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form4.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form4.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form4.cs",
+              "RelativeToolTip": "printingcheque1aa\\Form4.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAIA6wDEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T18:37:55.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form4.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form4.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form4.cs [Design]",
+              "RelativeToolTip": "printingcheque1aa\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:07:25.758Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form4.Designer.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form4.Designer.cs",
+              "RelativeToolTip": "printingcheque1aa\\Form4.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T18:40:25.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form3.Designer.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form3.Designer.cs",
+              "RelativeToolTip": "printingcheque1aa\\Form3.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:19:45.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form2.resx",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form2.resx",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form2.resx",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form2.resx",
+              "RelativeToolTip": "printingcheque1aa\\Form2.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-30T11:19:24.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Attijari_wafabanque.rdlc [Conception]",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Attijari_wafabanque.rdlc",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Attijari_wafabanque.rdlc",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Attijari_wafabanque.rdlc [Conception]",
+              "RelativeToolTip": "printingcheque1aa\\Attijari_wafabanque.rdlc [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-09-19T22:18:40.609Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form6.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form6.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form6.cs [Design]",
+              "RelativeToolTip": "printingcheque1aa\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:26:29.065Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form7.cs [Design]",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form7.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form7.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form7.cs [Design]",
+              "RelativeToolTip": "printingcheque1aa\\Form7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:08:00.205Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form4.resx",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form4.resx",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form4.resx",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form4.resx",
+              "RelativeToolTip": "printingcheque1aa\\Form4.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-23T18:40:41.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BMCE.rdlc [Conception]",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\BMCE.rdlc",
+              "RelativeDocumentMoniker": "printingcheque1aa\\BMCE.rdlc",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\BMCE.rdlc [Conception]",
+              "RelativeToolTip": "printingcheque1aa\\BMCE.rdlc [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-09-19T22:20:01.349Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form7.Designer.cs",
+              "DocumentMoniker": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form7.Designer.cs",
+              "RelativeDocumentMoniker": "printingcheque1aa\\Form7.Designer.cs",
+              "ToolTip": "C:\\repo local\\PROJECT-\\printingcheque1aa\\printingcheque1aa\\Form7.Designer.cs",
+              "RelativeToolTip": "printingcheque1aa\\Form7.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:07:57.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

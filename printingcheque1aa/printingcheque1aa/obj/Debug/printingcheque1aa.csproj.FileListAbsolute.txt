@@ -1,0 +1,352 @@
+C:\projeect\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.exe.config
+C:\projeect\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.exe
+C:\projeect\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.pdb
+C:\projeect\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.AssemblyReference.cache
+C:\projeect\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Form1.resources
+C:\projeect\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Properties.Resources.resources
+C:\projeect\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.GenerateResource.cache
+C:\projeect\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.CoreCompileInputs.cache
+C:\projeect\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.exe
+C:\projeect\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.pdb
+<<<<<<< HEAD
+C:\.NETAPP\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.AssemblyReference.cache
+C:\.NETAPP\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Form1.resources
+C:\.NETAPP\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Form2.resources
+C:\.NETAPP\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Properties.Resources.resources
+C:\.NETAPP\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.GenerateResource.cache
+C:\.NETAPP\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.CoreCompileInputs.cache
+C:\.NETAPP\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.exe
+C:\.NETAPP\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.pdb
+=======
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.exe.config
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.exe
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.pdb
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.AssemblyReference.cache
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Form1.resources
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Form2.resources
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Properties.Resources.resources
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.GenerateResource.cache
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.CoreCompileInputs.cache
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.exe
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.pdb
+>>>>>>> 05382990cb7cc36279ca1a20e9497c4c9e14ad76
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Form1.resources
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Form2.resources
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Properties.Resources.resources
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.exe
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.pdb
+C:\.NETAPP\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.exe.config
+C:\.NETAPP\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.exe
+C:\.NETAPP\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.pdb
+C:\prject\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.AssemblyReference.cache
+C:\prject\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Form1.resources
+C:\prject\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Form2.resources
+C:\prject\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Properties.Resources.resources
+C:\prject\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.GenerateResource.cache
+C:\prject\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.CoreCompileInputs.cache
+C:\prject\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.exe
+C:\prject\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.pdb
+C:\prject\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.exe.config
+C:\prject\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.exe
+C:\prject\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.pdb
+>>>>>>> b1a64f19170a0d5b1d8921ea143525672b35b1a3
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.exe.config
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.exe
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.pdb
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\EnvDTE.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\stdole.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Downloads\MyGithub\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printing.C531D86E.Up2Date
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.exe.config
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.exe
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\printingcheque1aa.pdb
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\EnvDTE.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\stdole.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.AssemblyReference.cache
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Form1.resources
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Form2.resources
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Properties.Resources.resources
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.GenerateResource.cache
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.CoreCompileInputs.cache
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printing.C531D86E.Up2Date
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.exe
+C:\Users\info\Downloads\github\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.pdb
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\BouncyCastle.Cryptography.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Google.Protobuf.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\K4os.Compression.LZ4.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\K4os.Hash.xxHash.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\MySql.Data.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.Buffers.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.IO.Pipelines.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.Memory.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.Numerics.Vectors.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ZstdSharp.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\EnvDTE.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\stdole.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\BouncyCastle.Cryptography.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Google.Protobuf.pdb
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Google.Protobuf.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\K4os.Compression.LZ4.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\K4os.Hash.xxHash.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\MySql.Data.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.Buffers.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.IO.Pipelines.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.Memory.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.Numerics.Vectors.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.csproj.SuggestedBindingRedirects.cache
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.exe.config
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Form4.resources
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printing.C531D86E.Up2Date
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\EntityFramework.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\EntityFramework.SqlServer.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\EntityFramework.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\EntityFramework.SqlServer.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Form3.resources
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\interface_user.Form3.resources
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itextsharp.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itextsharp.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.barcodes.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.bouncy-castle-connector.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.commons.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.forms.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.io.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.kernel.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.layout.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.pdfa.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.pdfua.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.sign.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.styledxmlparser.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.svg.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.Extensions.Options.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Newtonsoft.Json.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.ValueTuple.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.barcodes.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.bouncy-castle-connector.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.commons.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.forms.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.io.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.kernel.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.layout.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.pdfa.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.pdfua.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.sign.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.styledxmlparser.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\itext.svg.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.Extensions.Options.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Newtonsoft.Json.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.ValueTuple.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\other_face.Form6.resources
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Form7.resources
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\OcrCODEE.Form8.resources
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Form8.resources
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\x86\leptonica-1.82.0.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\x86\tesseract50.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\x64\leptonica-1.82.0.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\x64\tesseract50.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\x86\liblept1760.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\x86\libtesseract400.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\x64\liblept1760.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\x64\libtesseract400.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.Drawing.Common.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Tesseract.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\Tesseract.Drawing.dll
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\bin\Debug\System.Drawing.Common.xml
+C:\repo local\PROJECT-\printingcheque1aa\printingcheque1aa\obj\Debug\printingcheque1aa.Form9.resources
